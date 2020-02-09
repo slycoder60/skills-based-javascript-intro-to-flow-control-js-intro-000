@@ -34,7 +34,7 @@ function ternaryTeenager(age) {
 
 
 }*/
-return ternaryTeenager(age) ? ()'You are a teenager' : 'You are not a teenager')
+return ternaryTeenager(age) ? ('You are a teenager' : 'You are not a teenager')
 
 function switchAge(age) {
 
