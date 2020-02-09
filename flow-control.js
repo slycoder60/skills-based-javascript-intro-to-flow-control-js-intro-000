@@ -42,7 +42,7 @@ function switchAge(age) {
     return
     'You are a teenager';
     default:
-    'You are not a teenager'
+    'You are not a teenager';
   }
 
 }
