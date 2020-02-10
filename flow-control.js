@@ -44,5 +44,5 @@ function switchAge(age) {
     default:
     'You have an age'
   }
-
+SwitchAge(13)
 }
